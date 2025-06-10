@@ -1,3 +1,2 @@
-# Xenthia Backend
-
-Backend inteligente con autoaprendizaje y conexión con GitHub y Cerebro IA.
+# Xenthia Backend para Google Cloud Run
+Este proyecto está configurado para desplegar Xenthia usando FastAPI y Uvicorn en Cloud Run.
