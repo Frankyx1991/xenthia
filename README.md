@@ -1,13 +1,15 @@
-# Webhook Backend para Xenthia o Cerebro IA
+# Xenthia
+Asistente IA autónomo conectado con Cerebro IA y GitHub.
 
-Este proyecto expone un endpoint `/webhook` que se puede conectar con GitHub para realizar auto-mejoras cuando se detecta un `push` en la rama `main`.
+## Funcionalidades
+- Auto-mejora entre proyectos
+- Conexión entre APIs
+- Monitoreo de errores y sincronización
 
-## Configuración
+## Uso
+1. Clonar el repositorio
+2. Configurar el archivo .env
+3. Ejecutar `npm install` y `npm start`
 
-1. Cambia el valor de `GITHUB_SECRET` en el `.env`.
-2. Agrega esta URL en tu GitHub Webhook:
-   ```
-   https://<tu-backend>.run.app/webhook
-   ```
-3. Selecciona `application/json` y añade tu clave secreta en GitHub.
-
+## Licencia
+MIT
