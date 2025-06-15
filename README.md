@@ -1,3 +1,2 @@
-# Xenthia
-
-Este módulo funciona como núcleo IA para Cerebro IA, respondiendo solicitudes y mejorando el código de forma autónoma.
+# Xenthia Backend
+Este backend se conecta con Cerebro IA para procesar análisis en tiempo real.
