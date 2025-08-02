@@ -1,11 +1,15 @@
 {
-  "name": "xenthia-proyecto",
-  "version": "1.0.0",
+  "name": "xenthia",
+  "version": "1.1.0",
+  "description": "Servicio de análisis de mercado para Cerebro-IA",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "author": "Frankyx1991",
+  "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   }
 }
